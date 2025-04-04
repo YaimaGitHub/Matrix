@@ -43,7 +43,7 @@ const SkillsList = () => {
 
   const skills = {
     "Desarrollo de software": [
-      "creación de tu tienda online",
+      "creación de tu tienda online para paola",
       "",
       "",
     ],
